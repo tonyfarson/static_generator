@@ -1,0 +1,1 @@
+This is a project for my boots.dev coursework. Namely Back-end Developer Path (Python & Go): Build a Static Site Generator in Python.
